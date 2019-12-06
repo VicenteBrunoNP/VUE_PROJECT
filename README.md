@@ -1,4 +1,4 @@
-# Vue Project School
+# Vue Project School - Course
 
 ## Project setup
 ```
