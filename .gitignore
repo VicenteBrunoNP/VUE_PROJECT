@@ -19,3 +19,10 @@ yarn-error.log*
 *.njsproj
 *.sln
 *.sw?
+
+# Arquivos .net core e ef core
+bin
+obj
+
+#SqlLite Portable
+SQLiteDatabaseBrowserPortable
